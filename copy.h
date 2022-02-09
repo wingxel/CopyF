@@ -4,7 +4,7 @@
 #define false 0
 #define true 1
 
-// length of the buffer to read into
+// length of the buffer to read into.
 #define BUFFER_LEN 2048
 
 typedef int bool;
